@@ -122,7 +122,7 @@
 		width: 100%;
 		height: 100%;
 		background-size: cover;
-		background-image: url(./images/fotoVerticaal.JPG);
+		background-image: url(/images/fotoVerticaal.jpg);
 		border-radius: 10px;
 	}
 
@@ -162,7 +162,7 @@
 		width: 100%;
 		height: 100%;
 		background-size: cover;
-		background-image: url(./images/groepsfotoIAM.JPG);
+		background-image: url(./images/groepsfotoIAM.jpg);
 		border-radius: 10px;
         z-index: -1;
 	}
